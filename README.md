@@ -171,7 +171,7 @@ Register NO :212222230093
 
 
 ## Output screen shots of proteus  :
-![WhatsApp Image 2023-05-09 at 10 29 49](https://user-images.githubusercontent.com/118707204/236999195-b738dc12-4acb-44c3-9031-11504b4f1f47.jpg)
+
 
 
 
